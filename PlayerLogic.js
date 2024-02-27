@@ -23,7 +23,7 @@ let soundtrackPosters = {
     'Songs/Tom_Petty_Love_is_a_long_road.mp3':'soundtrackPosters/Love_is_a_long_road.png',
     'Songs/Jai-Sulthan-MassTamilan.io.mp3':'soundtrackPosters/Sulthan_soundtrack_cover.jpg',
     'Songs/[YT2mp3.info] - Con La Brisa (From __Black Panther_ Wakanda Forever - Music From and Inspired By___Visual... (320kbps).mp3':
-    'soundtrackPosters\Wakanda_Forever.png',
+    'soundtrackPosters/Wakanda_Forever.png',
 }
 
 let currentInd = 0;
